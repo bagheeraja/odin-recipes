@@ -12,3 +12,4 @@ Use <p></p> for ingredient lists
 Use <ol></ol> for preparation steps
 If necessary, insert comments <!--  -->
 If needed, make bold <strong></strong> or emphasize <em></em>
+Review git commands and how to include git commit messages
